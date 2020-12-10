@@ -1,5 +1,5 @@
 specVersion: 0.0.2
-description: Fetches the user staked balances on the Sushiswap AMM protocol.
+description: Fetches the user staked balances on the Reserve Rights protocol.
 repository: https://github.com/beeram527/reserve-subgraph-schema.git
 schema:
   file: ./schema.graphql
